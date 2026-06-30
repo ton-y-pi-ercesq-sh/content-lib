@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ton-y-pi-ercesq-sh.github.io/content-lib/sitemap.xml
